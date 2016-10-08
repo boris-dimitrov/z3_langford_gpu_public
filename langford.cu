@@ -4,7 +4,7 @@
 // This program counts all permutations of the sequence 1, 1, 2, 2, 3, 3, ..., n, n
 // in which the two appearances of each m are separated by precisely m other numbers.
 // These permutations are called Langford pairings.  For n=3, only one such exists,
-// (modulo left-to-right reversal):  3, 2, 3, 1, 2, 1, 3.  Pairings exist only for n
+// (modulo left-to-right reversal):  2, 3, 1, 2, 1, 3.  Pairings exist only for n
 // that are congruent with 1 or 3 mod 4, and their count grows very rapidly with n.
 // See http://www.dialectrix.com/langford.html or Knuth volume 4a page 1 (chapter 7).
 //
