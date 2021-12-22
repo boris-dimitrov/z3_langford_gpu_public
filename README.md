@@ -3,4 +3,3 @@ GPU code to count Langford sequences, with some interesting GPU/CPU benchmark da
 
 Copyright 2016 Boris Dimitrov, Portola Valley, CA 94028.
 
-Questions? Contact http://www.facebook.com/boris
